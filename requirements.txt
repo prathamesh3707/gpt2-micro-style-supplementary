@@ -1,0 +1,14 @@
+# Versions used to verify scripts/evaluate.py (Python 3.12).
+# The original notebook ran on Google Colab (Python 3.12); see README for notes.
+torch==2.14.1
+transformers==5.20.1
+accelerate
+datasets==5.1.0
+huggingface-hub==1.33.0
+sentence-transformers==6.1.0
+scikit-learn==1.9.1
+numpy==2.5.4
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+tqdm
